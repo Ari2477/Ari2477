@@ -49,8 +49,6 @@
 
 ---
 
----
-
 ![Classic Snake](https://github.com/Ari2477/Ari2477/blob/output/snake-classic.svg)
 
 ![Cyberpunk Snake](https://github.com/Ari2477/Ari2477/blob/output/snake-cyberpunk.svg)
