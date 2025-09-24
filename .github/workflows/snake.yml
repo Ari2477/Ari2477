@@ -1,9 +1,9 @@
-name: Generate Snake Animation 
+name: generate-snake
 
 on:
   schedule:
     - cron: "0 0 * * *"   
-  workflow_dispatch:       
+  workflow_dispatch:      
 
 jobs:
   build:
@@ -13,13 +13,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Cyberpunk Snake
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
-          github_user_name: Ari2477
-          outputs: |
-            dist/cyberpunk-snake.svg
-          palette: "github-dark"   
+          github_user_name: Ari2477   
+          outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
