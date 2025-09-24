@@ -54,7 +54,7 @@
 ---
 
 
-![Snake animation](https://github.com/ari2477/ari2477/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Ari2477/Ari2477/output/github-contribution-grid-snake.svg)
 
 ---
 
