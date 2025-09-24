@@ -39,11 +39,20 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ari&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&icon_color=9B59B6&text_color=FFFFFF" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ari&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ari&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&langs_count=6&hide=python,java,c" height="180"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ari&theme=tokyonight&background=0D1117&ring=36BCF7&fire=9B59B6&currStreakLabel=FFFFFF" />
+</p>
+
+---
+
+## 💻 Core Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
