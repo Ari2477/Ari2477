@@ -1,45 +1,58 @@
-<!-- Animated Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Juan!%20👋&fontSize=40&fontAlignY=35&animation=fadeIn)
+<!-- Animated Header (Gradient Waves) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9B59B6&height=200&section=header&text=Welcome%20to%20Juan's%20Profile!%20👋&fontSize=35&fontAlignY=35&animation=twinkling&fontColor=fff)
 
-<!-- Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+learning+new+things!)](https://git.io/typing-svg)
-
----
-
-## 👨‍💻 About Me
-- 🔭 Currently working on **awesome projects**
-- 🌱 Learning **React, Node.js, and Python**
-- 💡 Interested in **Open Source, Web Development, and AI**
-- 📫 Reach me at: [Email](mailto:your@email.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+<!-- Center Typing Effect -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;Open+Source+Contributor+🌍;Tech+Explorer+🚀;Always+Learning+📚" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+## ✨ About Me
+- 🔭 Working on **amazing open-source projects**
+- 🌱 Learning **Next.js, GraphQL, and AI tools**
+- 🎨 Love mixing **design + code**
+- 📫 Contact me: [Email](mailto:you@email.com) | [Portfolio](https://yourwebsite.com)
+
+---
+
+## 🚀 Tech & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode,figma" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Juan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=juan123&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juan123&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan123&layout=compact&theme=radical" height="180"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan123&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juan123&theme=tokyonight)
-
----
-
-## 🌱 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juan123&theme=github)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juan123&theme=radical" />
+</p>
 
 ---
 
-## 🌟 Fun Fact
-> "Code is like humor. When you have to explain it, it’s bad." 😆
+## 🌱 Contribution Graph
+![Juan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juan123&bg_color=0d1117&color=36BCF7&line=9B59B6&point=FFFFFF&area=true&hide_border=true)
 
 ---
 
-<!-- Animated Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+## 🎉 Fun Section
+- 🎵 Music fuels my creativity  
+- 🕹 Gamer at night  
+- ☕ Coffee + Code = Perfect combo  
+
+---
+
+<!-- Cool Animated Snake -->
+![snake gif](https://github.com/juan123/juan123/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<!-- Footer Waves -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:9B59B6,100:36BCF7&height=100&section=footer)
