@@ -1,10 +1,9 @@
-name: Generate Snake Animation
+name: Generate Snake Animations
 
 on:
   workflow_dispatch:
-
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" 
 
 jobs:
   build:
@@ -14,13 +13,38 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake SVG
-        uses: Platane/snk@v3
+      - name: Generate Classic Snake
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Ari2477   # <--- username mo
-          outputs: dist/github-contribution-grid-snake.svg
+          github_user_name: Ari2477
+          outputs: |
+            dist/snake-classic.svg
 
-      - name: Push Snake SVG to output branch
+      - name: Generate Cyberpunk Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Ari2477
+          outputs: |
+            dist/snake-cyberpunk.svg
+          snake_color: "#36BCF7"
+          snake_head_color: "#9B59B6"
+          background: "#0D1117"
+          pixel_color: "#FFFFFF"
+          gradient: "radial"
+
+      - name: Generate Matrix Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Ari2477
+          outputs: |
+            dist/snake-matrix.svg
+          snake_color: "#00FF41"
+          snake_head_color: "#39FF14"
+          background: "#000000"
+          pixel_color: "#0AFF0A"
+
+      # 🚀 Push generated snakes
+      - name: Push Snake SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
