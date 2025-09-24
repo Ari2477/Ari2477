@@ -62,7 +62,6 @@
 - 🕹 Gamer at night 🌙  
 - ☕ Coffee fuels my creativity  
 - 🎶 Love coding with music 🎧  
-- 🌌 Cyberpunk aesthetic lover ⚡  
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350" />
