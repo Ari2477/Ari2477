@@ -16,7 +16,7 @@
 - 🔭 Pushing boundaries with **next-level projects**
 - 🌱 Currently exploring **Next.js, AI & Motion Design**
 - 🎨 Obsessed with **design + code + animations**
-- 📫 Reach me: [Email](mailto:you@email.com) | [Portfolio](https://yourwebsite.com)
+- 📫 Reach me: [Fb account](https://www.facebook.com/61577110900436) | [Portfolio](https://myinfo10.netlify.app)
 
 ---
 
@@ -54,12 +54,12 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Ari2477/Ari2477/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Ari2477/Ari2477/blob/output/cyberpunk-snake.svg" alt="Cyberpunk Snake Animation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Snake-Glow%20Mode-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cyberpunk-Vibes-9B59B6?style=for-the-badge&logo=matrix&logoColor=white" />
+  <img src="https://img.shields.io/badge/NEON-CYBERPUNK-9B59B6?style=for-the-badge&logo=github&logoColor=36BCF7" />
+  <img src="https://img.shields.io/badge/FUTURE-CODE-36BCF7?style=for-the-badge&logo=matrix&logoColor=9B59B6" />
 </p>
 
 <p align="center">
