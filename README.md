@@ -50,7 +50,7 @@
 
 ---
 
-![snake gif](https://github.com/ari/ari/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Ari2477/Ari2477/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
