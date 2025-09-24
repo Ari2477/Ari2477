@@ -23,7 +23,7 @@
 ## 🎨 Animated Designs
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=header&text=%20&animation=twinkling" />
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400" />
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=8&section=footer" />
 </p>
 
@@ -70,7 +70,7 @@
 - 🌌 Cyberpunk aesthetic lover ⚡  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350" />
 </p>
 
 ---
