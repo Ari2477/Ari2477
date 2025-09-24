@@ -54,16 +54,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Ari2477/Ari2477/blob/output/cyberpunk-snake.svg" alt="Cyberpunk Snake Animation" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NEON-CYBERPUNK-9B59B6?style=for-the-badge&logo=github&logoColor=36BCF7" />
-  <img src="https://img.shields.io/badge/FUTURE-CODE-36BCF7?style=for-the-badge&logo=matrix&logoColor=9B59B6" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:9B59B6&height=5&section=footer" />
+  <img src="https://raw.githubusercontent.com/Ari2477/Ari2477/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=36BCF7&color_dots=#9B59B6,#36BCF7,#00FFFF,#FF00FF" alt="Cyberpunk Snake Animation" />
 </p>
 
 ---
