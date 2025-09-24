@@ -53,9 +53,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ari2477/Ari2477/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=36BCF7&color_dots=#9B59B6,#36BCF7,#00FFFF,#FF00FF" alt="Cyberpunk Snake Animation" />
-</p>
+
+![Snake animation](https://github.com/ari2477/ari2477/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
