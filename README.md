@@ -39,7 +39,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ari&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&icon_color=9B59B6&text_color=FFFFFF" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ari&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&langs_count=6&hide=python,java,c" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ari&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&langs_count=8&hide=ruby,java,python,c" height="180"/>
 </p>
 
 <p align="center">
@@ -50,9 +50,18 @@
 
 ## 💻 Core Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/HTML5-FF4500?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Focused On
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend%20Development-36BCF7?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20UI/UX-9B59B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responsive%20Design-2ECC71?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
 ---
