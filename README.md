@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9B59B6&height=230&section=header&text=⚡%20Ari%20-%20Welcome%20to%20My%20World%20👾&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=🚀+Creative+Developer+%26+Designer;🔥+Open+Source+Contributor;🎨+Tech+Explorer+|+Animation+Lover;💡+Building+Cool+Things+With+Code" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=🚀+Creative+Developer+%26+Designer;👋+Hi!+I'm+Ari;🎨+Tech+Explorer+|+Animation+Lover;💡+Building+Cool+Things+With+Code" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -54,11 +54,16 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Ari2477/Ari2477/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/Ari2477/Ari2477/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Snake-Glow%20Mode-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyberpunk-Vibes-9B59B6?style=for-the-badge&logo=matrix&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:9B59B6&height=5&section=footer" />
 </p>
 
 ---
