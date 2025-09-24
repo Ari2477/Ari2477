@@ -20,7 +20,6 @@
 
 ---
 
-## 🎨 Animated Designs
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=header&text=%20&animation=twinkling" />
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400" />
@@ -58,7 +57,6 @@
 
 ---
 
-## 🎉 Fun Facts
 - 🕹 Gamer at night 🌙  
 - ☕ Coffee fuels my creativity  
 - 🎶 Love coding with music 🎧  
