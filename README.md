@@ -49,13 +49,13 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Ari2477/Ari2477/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Snake-Glow%20Mode-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+![Classic Snake](https://github.com/Ari2477/Ari2477/blob/output/snake-classic.svg)
+
+![Cyberpunk Snake](https://github.com/Ari2477/Ari2477/blob/output/snake-cyberpunk.svg)
+
+![Matrix Snake](https://github.com/Ari2477/Ari2477/blob/output/snake-matrix.svg)
 
 ---
 
