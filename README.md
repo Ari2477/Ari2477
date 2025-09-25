@@ -15,14 +15,15 @@
 ---
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x80/0d1117/9B59B6?text=👾+ABOUT+ME+👾" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9B59B6&height=4&section=header&text=" />
 </p>
 
+## 👾 About Me
 - 🔭 Pushing boundaries with **next-level projects**
 - 🌱 Currently exploring **Next.js, AI & Motion Design**
 - 🎨 Obsessed with **design + code + animations**
 - 📫 Reach me: [Fb account](https://www.facebook.com/61577110900436) | [Portfolio](https://myinfo10.netlify.app)
-
+  
 ---
 
 <p align="center">
