@@ -15,10 +15,9 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=9B59B6&height=4&section=header&text=" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9B59B6&height=4&section=header&text=ABOUT+ME"alt=divider" />
 </p>
 
-## 👾 About Me
 - 🔭 Pushing boundaries with **next-level projects**
 - 🌱 Currently exploring **Next.js, AI & Motion Design**
 - 🎨 Obsessed with **design + code + animations**
