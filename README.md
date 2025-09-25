@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9B59B6&height=220&section=header&text=⚡%20Ari%20-%20Welcome%20to%20My%20World%20👾&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://via.placeholder.com/1000x250/0d1117/36BCF7?text=⚡+Ari+—+Welcome+to+My+World+👾" alt="Glitch Banner" />
 </p>
 
 <p align="center">
@@ -8,44 +9,48 @@
 
 ---
 
-<!-- ✨ ABOUT -->
-## ✨ About Me  
+<!-- 👾 TERMINAL ABOUT ME -->
+## 👾 About Me 
 
-> Ari --help
-  🔥 Building next-level interactive projects
-  🌱 Exploring Next.js | AI | Motion Design | Web3
-  🎨 Blending design + code + animations
-  📫 Reach me: Facebook | Portfolio
+> whoami
+⚡ Ari — Creative Developer + Designer 👾
 
-<p align="center">
-  <a href="https://www.facebook.com/61577110900436"><img src="https://img.shields.io/badge/Facebook-36BCF7?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://myinfo10.netlify.app"><img src="https://img.shields.io/badge/Portfolio-9B59B6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+> skills --list
+[React, Next.js, Tailwind, Motion Design, 3D, Blender, AI]
+
+> status
+🚀 Currently building cool shit
+
+> socials
+🌐 Portfolio : https://myinfo10.netlify.app
+📘 Facebook : https://www.facebook.com/61577110900436
+
+
 ---
 
-<!-- 🚀 FEATURED PROJECTS -->🚀 Featured Projects
+<!-- 🚀 FEATURED PROJECTS -->🚀 Featured Projects (Showcase)
 
 <p align="center">
   <a href="https://myinfo10.netlify.app">
-    <img src="https://via.placeholder.com/250x150/0d1117/ffffff?text=🌐+Portfolio" width="250" />
+    <img src="https://via.placeholder.com/250x150/0d1117/36BCF7?text=🌐+Portfolio" width="250" />
   </a>
   <a href="https://github.com/Ari2477">
-    <img src="https://via.placeholder.com/250x150/0d1117/ffffff?text=⚡+Cool+App" width="250" />
+    <img src="https://via.placeholder.com/250x150/0d1117/9B59B6?text=⚡+Cool+App" width="250" />
   </a>
   <a href="https://github.com/Ari2477">
-    <img src="https://via.placeholder.com/250x150/0d1117/ffffff?text=🎨+Design+Tools" width="250" />
+    <img src="https://via.placeholder.com/250x150/0d1117/8e44ad?text=🎨+Design+Tools" width="250" />
   </a>
 </p>
 ---
 
-<!-- 🛠 TECH STACK -->🛠 Tech Stack
+<!-- 🛠 TECH STACK -->🛠 Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,tailwind,threejs,blender,figma,git,github,vscode" />
 </p>
 ---
 
-<!-- 📊 STATS -->📊 GitHub Stats
+<!-- 📊 STATS -->📊 GitHub Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ari&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&icon_color=9B59B6&text_color=FFFFFF" height="180" />
@@ -55,7 +60,7 @@
 </p>
 ---
 
-<!-- 📈 CONTRIBUTIONS -->📈 Contributions
+<!-- 📈 CONTRIBUTIONS -->📈 Contributions Tracker
 
 
 
@@ -64,11 +69,15 @@
 </p>
 ---
 
-🕹 Gamer at night 🌙
+<!-- 🎮 FUN SIDE -->🎮 Fun Side
+
+🕹 Gamer by night 🌙
 
 ☕ Coffee-powered creativity
 
 🎶 Music fuels my code 🎧
+
+👾 Cyberpunk vibes always on
 
 
 <p align="center">
@@ -79,5 +88,6 @@
 <!-- 🚀 FOOTER --><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B59B6,100:36BCF7&height=120&section=footer" />
 </p>
-```
+
 ---
+
