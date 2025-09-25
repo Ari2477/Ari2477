@@ -17,6 +17,7 @@
 <p align="center">
   <img src="https://via.placeholder.com/800x80/0d1117/9B59B6?text=👾+ABOUT+ME+👾" alt="Divider" />
 </p>
+
 - 🔭 Pushing boundaries with **next-level projects**
 - 🌱 Currently exploring **Next.js, AI & Motion Design**
 - 🎨 Obsessed with **design + code + animations**
