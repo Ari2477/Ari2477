@@ -1,7 +1,7 @@
 ![header](https://media.giphy.com/media/xTiTniuHdUjpOlNo1q/giphy.gif)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=00ff00&center=true&vCenter=true&width=650&lines=👋+Hi!+I'm+Ari;🚀+Creative+Developer+%26+Designer;🎨+Tech+Explorer+|+Matrix+Vibes;💡+Building+Cool+Things+With+Code" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=00ff00&center=true&vCenter=true&width=650&lines=👋+Hi!+I'm+Ari;🚀+Creative+Developer+%26+Designer;🎨+Tech+Explorer+|+Matrix+Lover;💡+Building+Cool+Things+With+Code" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/xTiTniuHdUjpOlNo1q/giphy.gif" width="100%" />
-  <img src="https://i.pinimg.com/originals/2c/7f/2b/2c7f2b5b3a5d1b4a3d4d6c1b9a8f0a7e.gif" width="400" />
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400" />
   <img src="https://media.giphy.com/media/xTiTniuHdUjpOlNo1q/giphy.gif" width="100%" />
 </p>
 
