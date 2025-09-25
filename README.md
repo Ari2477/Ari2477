@@ -64,8 +64,6 @@
 </p>
 ---
 
-<!-- 🎮 FUN SIDE -->🎮 Fun Side
-
 🕹 Gamer at night 🌙
 
 ☕ Coffee-powered creativity
