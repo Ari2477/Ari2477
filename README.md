@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=👋+Hi!+I'm+Ari;🚀+Creative+Developer+%26+Designer;🎨+Tech+Explorer+|+Animation+Lover;💡+Building+Cool+Things+With+Code" alt="Typing Animation" />
 </p>
 
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Code%20With-Passion-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Creativity-9B59B6?style=for-the-badge&logo=figma&logoColor=white" />
@@ -14,15 +12,12 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=9B59B6&height=4&section=header&text=ABOUT+ME"alt=divider" />
-</p>
-
+## ✨ About Me
 - 🔭 Pushing boundaries with **next-level projects**
 - 🌱 Currently exploring **Next.js, AI & Motion Design**
 - 🎨 Obsessed with **design + code + animations**
 - 📫 Reach me: [Fb account](https://www.facebook.com/61577110900436) | [Portfolio](https://myinfo10.netlify.app)
-  
+
 ---
 
 <p align="center">
