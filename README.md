@@ -1,3 +1,7 @@
+|  /  | / \ / || | | |/ _ \ \ / / |  /  | | |/| |/ _ \ | | | | | | \ V /  | |/| | | |  | / ___ _) | || | || || |   | |  | | ||  |//   __/ _/ _/ ||   ||  |_|
+
+// 01000001 01110010 01101001 // // Welcome to the green terminal //
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0,100:004400&height=200&section=header&text=%E2%9A%A1%20Ari%20-%20Enter%20the%20Matrix%20%F0%9F%91%BE&fontSize=36&fontAlignY=36&animation=twinkling&fontColor=000" alt="matrix header"/>
 </p>
