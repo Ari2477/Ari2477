@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ari2477&theme=tokyonight&background=0D1117&ring=36BCF7&fire=9B59B6&currStreakLabel=FFFFFF"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ari2477&theme=tokyonight&background=0D1117&ring=36BCF7&fire=9B59B6&currStreakLabel=FFFFFF" />
 </p>
 
 ---
