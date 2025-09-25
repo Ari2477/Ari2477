@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZHMyb3VwNmxjN3F2bmdqZXpoaTg3Nm42cTR3MzJpNHVvcWZwajF1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9jwuxt5bXKadi/giphy.gif" alt="nothing jet2 you holiday" width="400" style="border-radius: 12px; box-shadow: 0 0 20px #00f2ff;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUycGc5bW5pb2N1dDdsemV3c3VocWVzanM4YWpoajZrdjlkZXJxbW42ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggK04fdPVARRtH8w7G/giphy.gif" alt="nothing jet2 you holiday" width="500" style="border-radius: 12px; box-shadow: 0 0 20px #00f2ff;">
 </p>
 
 ---
