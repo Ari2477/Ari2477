@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9B59B6&height=230&section=header&text=%20-%20WELCOME%20TO%20MY%20WORLD%20👾&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9B59B6&height=230&section=header&text=%20%20WELCOME%20TO%20MY%20WORLD%20&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=👋+Hi!+I'm+Ari;🚀+Creative+Developer+%26+Designer;🎨+Tech+Explorer+|+Animation+Lover;💡+Building+Cool+Things+With+Code" alt="Typing Animation" />
